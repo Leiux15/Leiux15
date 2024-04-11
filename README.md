@@ -15,4 +15,4 @@
 - Você pode me encontrar no (https://www.linkedin.com/in/leiuqueze-in%C3%A1cio-baa5b7154/) ou me enviar um e-mail para leiuquezeinaciop@gmail.com.
 
 ## ⚡ Curiosidade
-- [Uma curiosidade divertida sobre você].
+- Além do emocionante mundo de programação, sou apaixonado por música e já dei aula de violino por alguns anos.
