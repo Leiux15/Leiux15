@@ -12,7 +12,7 @@
 - Áreas relacionadas a automações e otimizações de projetos, tenho interesse também pela área de segurança da informação e técnicas de hacking ético.
 
 ## 📫 Como entrar em contato
-- Você pode me encontrar no (https://www.linkedin.com/in/leiuqueze-in%C3%A1cio-baa5b7154/) ou me enviar um e-mail para leiuquezeinaciop@gmail.com.
+- Você pode me encontrar no ([https://www.linkedin.com/in/leiuqueze-in%C3%A1cio-baa5b7154/](https://br.linkedin.com/in/leiuqueze-in%C3%A1cio-baa5b7154)) ou me enviar um e-mail para leiuquezeinaciop@gmail.com.
 
 ## ⚡ Curiosidade
 - Além do emocionante mundo de programação, sou apaixonado por música e já dei aula de violino por alguns anos.
